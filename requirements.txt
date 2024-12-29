@@ -1,0 +1,4 @@
+asyncio
+aiohttp
+git+https://git@github.com/lmagyar/python-hass-client.git#egg=hass_client
+python-dotenv

@@ -1,0 +1,15 @@
+
+{
+    "name": "homeassistant-edgex",
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.pythonPath": "/usr/local/bin/python",
+        "python.analysis.extraPaths": [
+            "./src"
+        ]
+    }
+}
